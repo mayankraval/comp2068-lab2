@@ -1,0 +1,15 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "My First Simple Calculator using Node.js",
+  "main": "lab2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "calculator"
+  ],
+  "author": "Mayank Raval <mayankraval89@yahoo.com> (http://www.G-intelligence.com)",
+  "license": "ISC"
+}
